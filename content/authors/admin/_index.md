@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+1994年1月生，长江大学石油工程学院副教授、阿卜杜拉国王科技大学博士后，入选湖北省重大人才项目、“武汉英才”优秀青年人才、长江大学“菁英人才”计划，担任国家自然科学基金评议专家、多个期刊编辑及客座编辑，主持国家自然科学基金、国家重点实验室开放基金、省部级科研平台开放基金多项，以第一作者/通讯作者在《SPE Jounral》、《Engineering with Computers》、《Computational Geosciences》等SCI/EI高水平期刊发表论文30余篇，申请软件著作权和国家发明专利多项，获省部级一等奖一项。
 {style="text-align: justify;"}
