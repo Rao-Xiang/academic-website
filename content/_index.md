@@ -188,7 +188,7 @@ sections:
     design:
       columns: '2'
       view: citation
-   - block: collection
+  - block: collection
     id: students
     content:
       title: Phd and master students
