@@ -191,7 +191,7 @@ sections:
   - block: collection
     id: students
     content:
-      title: Phd and master students
+      title: PhD and master students
       filters:
         folders:
           - students
