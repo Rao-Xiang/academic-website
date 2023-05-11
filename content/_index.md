@@ -188,6 +188,16 @@ sections:
     design:
       columns: '2'
       view: citation
+   - block: collection
+    id: students
+    content:
+      title: Phd and master students
+      filters:
+        folders:
+          - students
+    design:
+      columns: '2'
+      view: compact
   - block: collection
     id: talks
     content:
