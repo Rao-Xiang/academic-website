@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 博士，2020
+    - course: 博士
       institution: 中国石油大学（北京）
       year: 2020
     - course: 学士
