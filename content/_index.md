@@ -27,7 +27,7 @@ sections:
       #     description: 10%
       #     icon: camera-retro
       #     icon_pack: fas
-       title: Skills
+       title: 开发的油藏数值模拟器
        items:
          - name: 投影嵌入式离散裂缝模拟器
            description: 基于两点流量格式及模拟有限差分，支持三维复杂缝网、全渗透率张量等
