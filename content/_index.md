@@ -13,20 +13,34 @@ sections:
       username: admin
   - block: features
     content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+      # title: Skills
+      # items:
+      #   - name: R
+      #     description: 90%
+      #     icon: r-project
+      #     icon_pack: fab
+      #   - name: Statistics
+      #     description: 100%
+      #     icon: chart-line
+      #     icon_pack: fas
+      #   - name: Photography
+      #     description: 10%
+      #     icon: camera-retro
+      #     icon_pack: fas
+       title: Skills
+       items:
+         - name: 投影嵌入式离散裂缝模拟器
+           description: 基于两点流量格式及模拟有限差分，支持三维复杂缝网、全渗透率张量等
+      #     icon: r-project
+      #     icon_pack: fab
+         - name: 无网格油藏数值模拟器
+           description: 基于油藏模型点云离散和无网格扩展有限体积法，支持复杂油藏几何（复杂边界、复杂缝网等）
+      #     icon: chart-line
+      #     icon_pack: fas
+         - name: 离散裂缝模拟器及流线版本
+           description: 基于模拟有限差分或混合有限元，支持复杂缝网，流线版本计算效率高
+      #     icon: camera-retro
+      #     icon_pack: fas
   - block: experience
     content:
       title: Experience
