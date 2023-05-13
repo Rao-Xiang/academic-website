@@ -56,7 +56,7 @@ sections:
         - title: 副教授
           company: 长江大学
           company_url: ''
-          company_logo: org-Yangtze
+          company_logo: org-gc
           location: 中国武汉
           date_start: '2020-07-16'
           date_end: ''
@@ -64,7 +64,7 @@ sections:
         - title: 博士后
           company: 阿卜杜拉国王科技大学
           company_url: ''
-          company_logo: org-KAUST
+          company_logo: org-x
           location: 沙特吉达图瓦
           date_start: '2023-02-01'
           date_end: ''
