@@ -53,27 +53,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: 副教授
+          company: 长江大学
+          company_url: 'https://pec.yangtzeu.edu.cn/info/1022/6467.htm'
+          company_logo: 
+          location: 中国武汉
+          date_start: '2020-07'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 石油工程学院.
+        - title: 博士后
+          company: 阿卜杜拉国王科技大学
+          company_url: 'https://arms.kaust.edu.sa/people/detail/xiang-rao'
+          company_logo: 
+          location: 沙特吉达图瓦
+          date_start: '2023-02'
+          date_end: ''
+          description: Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC).
+      #  - title: CEO
+      #    company: GenCoin
+      #    company_url: ''
+      #    company_logo: org-gc
+      #    location: California
+      #    date_start: '2021-01-01'
+      #    date_end: ''
+      #    description: |2-
+      #        Responsibilities include:
+      #
+      #        * Analysing
+      #        * Modelling
+      #        * Deploying
+      #  - title: Professor of Semiconductor Physics
+      #    company: University X
+      #    company_url: ''
+      #    company_logo: org-x
+      #    location: California
+      #    date_start: '2016-01-01'
+      #    date_end: '2020-12-31'
+      #    description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
