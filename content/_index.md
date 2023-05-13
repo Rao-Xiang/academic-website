@@ -56,7 +56,7 @@ sections:
         - title: 副教授
           company: 长江大学
           company_url: 'https://pec.yangtzeu.edu.cn/info/1022/6467.htm'
-          company_logo: 
+          company_logo: org-Yangtze
           location: 中国武汉
           date_start: '2020-07'
           date_end: ''
@@ -64,7 +64,7 @@ sections:
         - title: 博士后
           company: 阿卜杜拉国王科技大学
           company_url: 'https://arms.kaust.edu.sa/people/detail/xiang-rao'
-          company_logo: 
+          company_logo: org-KAUST
           location: 沙特吉达图瓦
           date_start: '2023-02'
           date_end: ''
