@@ -58,7 +58,7 @@ sections:
           company_url: ''
           company_logo: org-Yangtze
           location: 中国武汉
-          date_start: '2020-07'
+          date_start: '2020-07-16'
           date_end: ''
           description: 石油工程学院.
         - title: 博士后
@@ -66,7 +66,7 @@ sections:
           company_url: ''
           company_logo: org-KAUST
           location: 沙特吉达图瓦
-          date_start: '2023-02'
+          date_start: '2023-02-01'
           date_end: ''
           description: Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC).
       #  - title: CEO
